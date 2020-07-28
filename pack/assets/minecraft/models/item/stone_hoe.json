@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stone_hoe"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1},"model": "craftory:items/tools/sickle/sickle_wood"},
+	{"predicate": {"custom_model_data": 2},"model": "craftory:items/tools/sickle/sickle_stone"},
+	{"predicate": {"custom_model_data": 3},"model": "craftory:items/tools/sickle/sickle_iron"},
+	{"predicate": {"custom_model_data": 4},"model": "craftory:items/tools/sickle/sickle_steel"},
+	{"predicate": {"custom_model_data": 5},"model": "craftory:items/tools/sickle/sickle_copper"},
+	{"predicate": {"custom_model_data": 6},"model": "craftory:items/tools/sickle/sickle_gold"},
+	{"predicate": {"custom_model_data": 7},"model": "craftory:items/tools/sickle/sickle_diamond"},
+	{"predicate": {"custom_model_data": 8},"model": "craftory:items/tools/hammer/engineers_hammer"}
+	]
+}

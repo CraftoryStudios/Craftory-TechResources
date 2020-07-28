@@ -1,0 +1,414 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 5},"model": "extra:item/invisible"},
+    {"predicate": {"custom_model_data": 6},"model": "extra:item/output"},
+    {"predicate": {"custom_model_data": 7},"model": "extra:item/output/output_disabled"},
+	{"predicate": {"custom_model_data": 8},"model": "extra:item/output/output_green"},
+    {"predicate": {"custom_model_data": 9},"model": "extra:item/battery/bar_0_b"},
+    {"predicate": {"custom_model_data": 10},"model": "extra:item/battery/bar_1_b"},
+    {"predicate": { "custom_model_data": 11},"model": "extra:item/battery/bar_2_b"},
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "extra:item/battery/bar_3_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "extra:item/battery/bar_4_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "extra:item/battery/bar_5_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "extra:item/battery/bar_6_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "extra:item/battery/bar_7_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "extra:item/battery/bar_8_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "extra:item/battery/bar_9_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "extra:item/battery/bar_10_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "extra:item/battery/bar_11_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "extra:item/battery/bar_12_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "extra:item/battery/bar_13_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "extra:item/battery/bar_14_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "extra:item/battery/bar_15_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "extra:item/battery/bar_16_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "extra:item/battery/bar_17_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "extra:item/battery/bar_18_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "extra:item/battery/bar_19_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "extra:item/battery/bar_20_b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "extra:item/battery/bar_0_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "extra:item/battery/bar_1_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "extra:item/battery/bar_2_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "extra:item/battery/bar_3_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "extra:item/battery/bar_4_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "extra:item/battery/bar_5_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "extra:item/battery/bar_6_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "extra:item/battery/bar_7_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "extra:item/battery/bar_8_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "extra:item/battery/bar_9_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "extra:item/battery/bar_10_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "extra:item/battery/bar_11_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "extra:item/battery/bar_12_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "extra:item/battery/bar_13_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "extra:item/battery/bar_14_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "extra:item/battery/bar_15_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "extra:item/battery/bar_16_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "extra:item/battery/bar_17_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "extra:item/battery/bar_18_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "extra:item/battery/bar_19_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "extra:item/battery/bar_20_t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "extra:item/arrow/arrow_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "extra:item/arrow/arrow_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "extra:item/arrow/arrow_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "extra:item/arrow/arrow_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "extra:item/arrow/arrow_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "extra:item/arrow/arrow_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "extra:item/arrow/arrow_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "extra:item/arrow/arrow_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "extra:item/arrow/arrow_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "extra:item/arrow/arrow_9"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "craftory:items/wrench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "craftory:items/configurator"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "extra:item/light_off"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "extra:item/light_on"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "craftory:items/life_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "extra:item/output/output_disabled_alt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "extra:item/output/output_green_alt"
+    },
+	{"predicate": {"custom_model_data": 70},"model": "extra:item/tank/lava/lava_0_b"},
+	{"predicate": {"custom_model_data": 71},"model": "extra:item/tank/lava/lava_1_b"},
+	{"predicate": {"custom_model_data": 72},"model": "extra:item/tank/lava/lava_2_b"},
+	{"predicate": {"custom_model_data": 73},"model": "extra:item/tank/lava/lava_3_b"},
+	{"predicate": {"custom_model_data": 74},"model": "extra:item/tank/lava/lava_4_b"},
+	{"predicate": {"custom_model_data": 75},"model": "extra:item/tank/lava/lava_5_b"},
+	{"predicate": {"custom_model_data": 76},"model": "extra:item/tank/lava/lava_6_b"},
+	{"predicate": {"custom_model_data": 77},"model": "extra:item/tank/lava/lava_7_b"},
+	{"predicate": {"custom_model_data": 78},"model": "extra:item/tank/lava/lava_8_b"},
+	{"predicate": {"custom_model_data": 79},"model": "extra:item/tank/lava/lava_9_b"},
+	{"predicate": {"custom_model_data": 80},"model": "extra:item/tank/lava/lava_10_b"},
+	{"predicate": {"custom_model_data": 81},"model": "extra:item/tank/lava/lava_11_b"},
+	{"predicate": {"custom_model_data": 82},"model": "extra:item/tank/lava/lava_12_b"},
+	{"predicate": {"custom_model_data": 83},"model": "extra:item/tank/lava/lava_13_b"},
+	{"predicate": {"custom_model_data": 84},"model": "extra:item/tank/lava/lava_14_b"},
+	{"predicate": {"custom_model_data": 85},"model": "extra:item/tank/lava/lava_15_b"},
+	{"predicate": {"custom_model_data": 86},"model": "extra:item/tank/lava/lava_16_b"},
+	{"predicate": {"custom_model_data": 87},"model": "extra:item/tank/lava/lava_17_b"},
+	{"predicate": {"custom_model_data": 88},"model": "extra:item/tank/lava/lava_18_b"},
+	{"predicate": {"custom_model_data": 89},"model": "extra:item/tank/lava/lava_19_b"},
+	{"predicate": {"custom_model_data": 90},"model": "extra:item/tank/lava/lava_20_b"},
+	{"predicate": {"custom_model_data": 91},"model": "extra:item/tank/lava/lava_0_t"},
+	{"predicate": {"custom_model_data": 92},"model": "extra:item/tank/lava/lava_1_t"},
+	{"predicate": {"custom_model_data": 93},"model": "extra:item/tank/lava/lava_2_t"},
+	{"predicate": {"custom_model_data": 94},"model": "extra:item/tank/lava/lava_3_t"},
+	{"predicate": {"custom_model_data": 95},"model": "extra:item/tank/lava/lava_4_t"},
+	{"predicate": {"custom_model_data": 96},"model": "extra:item/tank/lava/lava_5_t"},
+	{"predicate": {"custom_model_data": 97},"model": "extra:item/tank/lava/lava_6_t"},
+	{"predicate": {"custom_model_data": 98},"model": "extra:item/tank/lava/lava_7_t"},
+	{"predicate": {"custom_model_data": 99},"model": "extra:item/tank/lava/lava_8_t"},
+	{"predicate": {"custom_model_data": 100},"model": "extra:item/tank/lava/lava_9_t"},
+	{"predicate": {"custom_model_data": 101},"model": "extra:item/tank/lava/lava_10_t"},
+	{"predicate": {"custom_model_data": 102},"model": "extra:item/tank/lava/lava_11_t"},
+	{"predicate": {"custom_model_data": 103},"model": "extra:item/tank/lava/lava_12_t"},
+	{"predicate": {"custom_model_data": 104},"model": "extra:item/tank/lava/lava_13_t"},
+	{"predicate": {"custom_model_data": 105},"model": "extra:item/tank/lava/lava_14_t"},
+	{"predicate": {"custom_model_data": 106},"model": "extra:item/tank/lava/lava_15_t"},
+	{"predicate": {"custom_model_data": 107},"model": "extra:item/tank/lava/lava_16_t"},
+	{"predicate": {"custom_model_data": 108},"model": "extra:item/tank/lava/lava_17_t"},
+	{"predicate": {"custom_model_data": 109},"model": "extra:item/tank/lava/lava_18_t"},
+	{"predicate": {"custom_model_data": 110},"model": "extra:item/tank/lava/lava_19_t"},
+	{"predicate": {"custom_model_data": 111},"model": "extra:item/tank/lava/lava_20_t"},
+	{"predicate": {"custom_model_data": 112},"model": "extra:item/turret_config/turret_e"},
+	{"predicate": {"custom_model_data": 113},"model": "extra:item/turret_config/turret_e_e"},
+	{"predicate": {"custom_model_data": 114},"model": "extra:item/turret_config/turret_n"},
+	{"predicate": {"custom_model_data": 115},"model": "extra:item/turret_config/turret_n_e"},
+	{"predicate": {"custom_model_data": 116},"model": "extra:item/turret_config/turret_ne"},
+	{"predicate": {"custom_model_data": 117},"model": "extra:item/turret_config/turret_ne_e"},
+	{"predicate": {"custom_model_data": 118},"model": "extra:item/turret_config/turret_nw"},
+	{"predicate": {"custom_model_data": 119},"model": "extra:item/turret_config/turret_nw_e"},
+	{"predicate": {"custom_model_data": 120},"model": "extra:item/turret_config/turret_s"},
+	{"predicate": {"custom_model_data": 121},"model": "extra:item/turret_config/turret_s_e"},
+	{"predicate": {"custom_model_data": 122},"model": "extra:item/turret_config/turret_se"},
+	{"predicate": {"custom_model_data": 123},"model": "extra:item/turret_config/turret_se_e"},
+	{"predicate": {"custom_model_data": 124},"model": "extra:item/turret_config/turret_sw"},
+	{"predicate": {"custom_model_data": 125},"model": "extra:item/turret_config/turret_sw_e"},
+	{"predicate": {"custom_model_data": 126},"model": "extra:item/turret_config/turret_w"},
+	{"predicate": {"custom_model_data": 127},"model": "extra:item/turret_config/turret_w_e"},
+	{"predicate": {"custom_model_data": 128},"model": "craftory:items/generators/windmill"},
+	{"predicate": {"custom_model_data": 129},"model": "craftory:items/turrets/base_turret"},
+	{"predicate": {"custom_model_data": 130},"model": "craftory:items/turrets/gun_turret"},
+	{"predicate": {"custom_model_data": 131},"model": "craftory:items/generators/waterwheel"}
+	
+  ]
+}

@@ -1,0 +1,5 @@
+{
+"machineGun1": {"sounds": ["craftory/machinegun1"]},
+"machineGun2": {"sounds": ["craftory/machinegun2"]},
+"machineIdle": {"sounds": ["craftory/machinehum"]}
+}
