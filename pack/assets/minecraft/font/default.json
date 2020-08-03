@@ -3,7 +3,7 @@
     {
       "file": "extra:font/gui/cell.png",
       "chars": [
-        "\ue000"
+        "\u1a00"
       ],
       "height": 170,
       "ascent": 47,
@@ -12,7 +12,7 @@
 	{
       "file": "extra:font/gui/furnace.png",
       "chars": [
-        "\ue009"
+        "\u1a09"
       ],
       "height": 170,
       "ascent": 47,
@@ -21,7 +21,7 @@
     {
       "file": "extra:font/gui/generator.png",
       "chars": [
-        "\ue008"
+        "\u1a08"
       ],
       "height": 170,
       "ascent": 47,
@@ -30,7 +30,7 @@
 	{
       "file": "extra:font/gui/geothermal.png",
       "chars": [
-        "\ue00A"
+        "\u1a0a"
       ],
       "height": 170,
       "ascent": 47,
@@ -39,7 +39,7 @@
 	{
       "file": "extra:font/gui/placer.png",
       "chars": [
-        "\ue00B"
+        "\u1a0b"
       ],
       "height": 170,
       "ascent": 47,
@@ -48,7 +48,7 @@
 	{
       "file": "extra:font/gui/blank.png",
       "chars": [
-        "\ue00C"
+        "\u1a0c"
       ],
       "height": 170,
       "ascent": 47,
@@ -57,7 +57,7 @@
 	{
       "file": "extra:font/gui/electric_foundry.png",
       "chars": [
-        "\ue00D"
+        "\u1a0d"
       ],
       "height": 170,
       "ascent": 47,
@@ -66,7 +66,7 @@
 	{
       "file": "extra:font/gui/iron_foundry.png",
       "chars": [
-        "\ue00E"
+        "\u1a0e"
       ],
       "height": 170,
       "ascent": 47,
@@ -78,7 +78,7 @@
 		"ascent": -32768,
 		"height": -5,
 		"chars": [
-			"\uF803"
+			"\uf803"
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 		"ascent": -32768,
 		"height": -6,
 		"chars": [
-			"\uF804"
+			"\uf804"
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 		"ascent": -32768,
 		"height": -7,
 		"chars": [
-			"\uF805"
+			"\uf805"
 		]
 	},
 	{
@@ -105,7 +105,7 @@
 		"ascent": -32768,
 		"height": -8,
 		"chars": [
-			"\uF806"
+			"\uf806"
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 		"ascent": -32768,
 		"height": -9,
 		"chars": [
-			"\uF807"
+			"\uf807"
 		]
 	},
 	{
@@ -123,7 +123,7 @@
 		"ascent": -32768,
 		"height": -10,
 		"chars": [
-			"\uF808"
+			"\uf808"
 		]
 	},
 	{
@@ -132,7 +132,7 @@
 		"ascent": -32768,
 		"height": -18,
 		"chars": [
-			"\uF809"
+			"\uf809"
 		]
 	},
 	{
@@ -141,7 +141,7 @@
 		"ascent": -32768,
 		"height": -34,
 		"chars": [
-			"\uF80A"
+			"\uf80a"
 		]
 	},
 	{
@@ -150,7 +150,7 @@
 		"ascent": -32768,
 		"height": -66,
 		"chars": [
-			"\uF80B"
+			"\uf80b"
 		]
 	},
 	{
@@ -159,7 +159,7 @@
 		"ascent": -32768,
 		"height": -130,
 		"chars": [
-			"\uF80C"
+			"\uf80c"
 		]
 	},
 	{
@@ -168,7 +168,7 @@
 		"ascent": -32768,
 		"height": -258,
 		"chars": [
-			"\uF80D"
+			"\uf80d"
 		]
 	},
 	{
@@ -177,7 +177,7 @@
 		"ascent": -32768,
 		"height": -514,
 		"chars": [
-			"\uF80E"
+			"\uf80e"
 		]
 	},
 	{
@@ -186,7 +186,7 @@
 		"ascent": -32768,
 		"height": -1026,
 		"chars": [
-			"\uF80F"
+			"\uf80f"
 		]
 	},
 	{
@@ -195,7 +195,7 @@
 		"ascent": -65536,
 		"height": -32770,
 		"chars": [
-			"\uF800"
+			"\uf800"
 		]
 	},
 	{
@@ -204,7 +204,7 @@
 		"ascent": -32768,
 		"height": 0,
 		"chars": [
-			"\uF821"
+			"\uf821"
 		]
 	},
 	{
@@ -213,7 +213,7 @@
 		"ascent": -32768,
 		"height": 1,
 		"chars": [
-			"\uF822"
+			"\uf822"
 		]
 	},
 	{
@@ -222,7 +222,7 @@
 		"ascent": -32768,
 		"height": 2,
 		"chars": [
-			"\uF823"
+			"\uf823"
 		]
 	},
 	{
@@ -231,7 +231,7 @@
 		"ascent": -32768,
 		"height": 3,
 		"chars": [
-			"\uF824"
+			"\uf824"
 		]
 	},
 	{
@@ -240,7 +240,7 @@
 		"ascent": -32768,
 		"height": 4,
 		"chars": [
-			"\uF825"
+			"\uf825"
 		]
 	},
 	{
@@ -249,7 +249,7 @@
 		"ascent": -32768,
 		"height": 5,
 		"chars": [
-			"\uF826"
+			"\uf826"
 		]
 	},
 	{
@@ -258,7 +258,7 @@
 		"ascent": -32768,
 		"height": 6,
 		"chars": [
-			"\uF827"
+			"\uf827"
 		]
 	},
 	{
@@ -267,7 +267,7 @@
 		"ascent": -32768,
 		"height": 7,
 		"chars": [
-			"\uF828"
+			"\uf828"
 		]
 	},
 	{
@@ -276,7 +276,7 @@
 		"ascent": -32768,
 		"height": 15,
 		"chars": [
-			"\uF829"
+			"\uf829"
 		]
 	},
 	{
@@ -285,7 +285,7 @@
 		"ascent": -32768,
 		"height": 31,
 		"chars": [
-			"\uF82A"
+			"\uf82a"
 		]
 	},
 	{
@@ -294,7 +294,7 @@
 		"ascent": -32768,
 		"height": 63,
 		"chars": [
-			"\uF82B"
+			"\uf82b"
 		]
 	},
 	{
@@ -303,7 +303,7 @@
 		"ascent": -32768,
 		"height": 127,
 		"chars": [
-			"\uF82C"
+			"\uf82c"
 		]
 	},
 	{
@@ -312,7 +312,7 @@
 		"ascent": -32768,
 		"height": 255,
 		"chars": [
-			"\uF82D"
+			"\uf82d"
 		]
 	},
 	{
@@ -321,7 +321,7 @@
 		"ascent": -32768,
 		"height": 511,
 		"chars": [
-			"\uF82E"
+			"\uf82e"
 		]
 	},
 	{
@@ -330,7 +330,7 @@
 		"ascent": -32768,
 		"height": 1023,
 		"chars": [
-			"\uF82F"
+			"\uf82f"
 		]
 	},
 	{
@@ -339,7 +339,7 @@
 		"ascent": -65536,
 		"height": 32767,
 		"chars": [
-			"\uF820"
+			"\uf820"
 		]
 	},
 	{
@@ -348,7 +348,7 @@
 		"ascent": -32768,
 		"height": -3,
 		"chars": [
-			"\uF811"
+			"\uf811"
 		]
 	},
 	{
@@ -357,7 +357,7 @@
 		"ascent": -32768,
 		"height": -4,
 		"chars": [
-			"\uF812"
+			"\uf812"
 		]
 	},
 	{
@@ -366,7 +366,7 @@
 		"ascent": -32768,
 		"height": -5,
 		"chars": [
-			"\uF813"
+			"\uf813"
 		]
 	},
 	{
@@ -375,7 +375,7 @@
 		"ascent": -32768,
 		"height": -6,
 		"chars": [
-			"\uF814"
+			"\uf814"
 		]
 	},
 	{
@@ -384,7 +384,7 @@
 		"ascent": -32768,
 		"height": -7,
 		"chars": [
-			"\uF815"
+			"\uf815"
 		]
 	},
 	{
@@ -393,7 +393,7 @@
 		"ascent": -32768,
 		"height": -8,
 		"chars": [
-			"\uF816"
+			"\uf816"
 		]
 	},
 	{
@@ -402,7 +402,7 @@
 		"ascent": -32768,
 		"height": -9,
 		"chars": [
-			"\uF817"
+			"\uf817"
 		]
 	},
 	{
@@ -411,7 +411,7 @@
 		"ascent": -32768,
 		"height": -10,
 		"chars": [
-			"\uF818"
+			"\uf818"
 		]
 	},
 	{
@@ -420,7 +420,7 @@
 		"ascent": -32768,
 		"height": -18,
 		"chars": [
-			"\uF819"
+			"\uf819"
 		]
 	},
 	{
@@ -429,7 +429,7 @@
 		"ascent": -32768,
 		"height": -34,
 		"chars": [
-			"\uF81A"
+			"\uf81a"
 		]
 	},
 	{
@@ -438,7 +438,7 @@
 		"ascent": -32768,
 		"height": -66,
 		"chars": [
-			"\uF81B"
+			"\uf81b"
 		]
 	},
 	{
@@ -447,7 +447,7 @@
 		"ascent": -32768,
 		"height": -130,
 		"chars": [
-			"\uF81C"
+			"\uf81c"
 		]
 	},
 	{
@@ -456,7 +456,7 @@
 		"ascent": -32768,
 		"height": -258,
 		"chars": [
-			"\uF81D"
+			"\uf81d"
 		]
 	},
 	{
@@ -465,7 +465,7 @@
 		"ascent": -32768,
 		"height": -514,
 		"chars": [
-			"\uF81E"
+			"\uf81e"
 		]
 	},
 	{
@@ -474,7 +474,7 @@
 		"ascent": -32768,
 		"height": -1026,
 		"chars": [
-			"\uF81F"
+			"\uf81f"
 		]
 	},
 	{
@@ -483,7 +483,7 @@
 		"ascent": -65536,
 		"height": -32770,
 		"chars": [
-			"\uF810"
+			"\uf810"
 		]
 	},
 	{
@@ -492,7 +492,7 @@
 		"ascent": -32768,
 		"height": 0,
 		"chars": [
-			"\uF831"
+			"\uf831"
 		]
 	},
 	{
@@ -501,7 +501,7 @@
 		"ascent": -32768,
 		"height": 1,
 		"chars": [
-			"\uF832"
+			"\uf832"
 		]
 	},
 	{
@@ -510,7 +510,7 @@
 		"ascent": -32768,
 		"height": 2,
 		"chars": [
-			"\uF833"
+			"\uf833"
 		]
 	},
 	{
@@ -519,7 +519,7 @@
 		"ascent": -32768,
 		"height": 3,
 		"chars": [
-			"\uF834"
+			"\uf834"
 		]
 	},
 	{
@@ -528,7 +528,7 @@
 		"ascent": -32768,
 		"height": 4,
 		"chars": [
-			"\uF835"
+			"\uf835"
 		]
 	},
 	{
@@ -537,7 +537,7 @@
 		"ascent": -32768,
 		"height": 5,
 		"chars": [
-			"\uF836"
+			"\uf836"
 		]
 	},
 	{
@@ -546,7 +546,7 @@
 		"ascent": -32768,
 		"height": 6,
 		"chars": [
-			"\uF837"
+			"\uf837"
 		]
 	},
 	{
@@ -555,7 +555,7 @@
 		"ascent": -32768,
 		"height": 7,
 		"chars": [
-			"\uF838"
+			"\uf838"
 		]
 	},
 	{
@@ -564,7 +564,7 @@
 		"ascent": -32768,
 		"height": 15,
 		"chars": [
-			"\uF839"
+			"\uf839"
 		]
 	},
 	{
@@ -573,7 +573,7 @@
 		"ascent": -32768,
 		"height": 31,
 		"chars": [
-			"\uF83A"
+			"\uf83a"
 		]
 	},
 	{
@@ -582,7 +582,7 @@
 		"ascent": -32768,
 		"height": 63,
 		"chars": [
-			"\uF83B"
+			"\uf83b"
 		]
 	},
 	{
@@ -591,7 +591,7 @@
 		"ascent": -32768,
 		"height": 127,
 		"chars": [
-			"\uF83C"
+			"\uf83c"
 		]
 	},
 	{
@@ -600,7 +600,7 @@
 		"ascent": -32768,
 		"height": 255,
 		"chars": [
-			"\uF83D"
+			"\uf83d"
 		]
 	},
 	{
@@ -609,7 +609,7 @@
 		"ascent": -32768,
 		"height": 511,
 		"chars": [
-			"\uF83E"
+			"\uf83e"
 		]
 	},
 	{
@@ -618,7 +618,7 @@
 		"ascent": -32768,
 		"height": 1023,
 		"chars": [
-			"\uF83F"
+			"\uf83f"
 		]
 	},
 	{
@@ -627,7 +627,7 @@
 		"ascent": -65536,
 		"height": 32767,
 		"chars": [
-			"\uF830"
+			"\uf830"
 		]
 	}
   ]
