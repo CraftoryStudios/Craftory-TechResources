@@ -408,7 +408,11 @@
 	{"predicate": {"custom_model_data": 100128},"model": "craftory:items/generators/windmill"},
 	{"predicate": {"custom_model_data": 100129},"model": "craftory:items/turrets/base_turret"},
 	{"predicate": {"custom_model_data": 100130},"model": "craftory:items/turrets/gun_turret"},
-	{"predicate": {"custom_model_data": 100131},"model": "craftory:items/generators/waterwheel"}
+	{"predicate": {"custom_model_data": 100131},"model": "craftory:items/generators/waterwheel"},
+	{"predicate": {"custom_model_data": 100132},"model": "extra:item/book/title_hider"},
+	{"predicate": {"custom_model_data": 100133},"model": "extra:item/book/back_button"},
+	{"predicate": {"custom_model_data": 100134},"model": "extra:item/book/forward_button"},
+	{"predicate": {"custom_model_data": 100135},"model": "craftory:items/tools/book/recipe_book"}
 	
   ]
 }
