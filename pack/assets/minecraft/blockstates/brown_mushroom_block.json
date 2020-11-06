@@ -1,5 +1,6 @@
 {
   "multipart": [
+    {"when":{"west":true,"up":true,"south":true,"north":true,"east":true,"down":true},"apply":{"model":"block/original/brown_mushroom_block_true"}},
     {
       "when": {
         "west": true,

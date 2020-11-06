@@ -1,6 +1,6 @@
 {
 	"credit": "By BrettSaunders for the Craftory Plugin",
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "craftory:item/tools/sickle/sickle_gold"
 	},
