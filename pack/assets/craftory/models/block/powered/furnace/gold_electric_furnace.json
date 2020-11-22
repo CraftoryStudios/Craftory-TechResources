@@ -4,7 +4,6 @@
 	"textures": {
 		"2": "craftory:block/powered/furnace/inner_casing_furnace",
 		"texture": "craftory:block/powered/cores/gold_block"
-		"particle": "craftory:block/powered/cores/gold_block"
 	},
 	"elements": [
 		{
