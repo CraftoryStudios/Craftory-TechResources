@@ -1,3 +1,6 @@
+THIS REPO IS NO LONGER IN USE
+ASSETS ARE NOW HERE https://github.com/CraftoryStudios/Craftory-Tech
+
 # CraftoryResources
 
 WARNING: The content of this REPO are COPYRIGHT
